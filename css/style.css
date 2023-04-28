@@ -3,13 +3,13 @@
  height: 200px;
  border: 3px solid black;
  margin: 40px;
- background-color: rgb(225, 235, 235); 
+ background-color: rgb(175, 214, 114); 
  
 }
 .contaner{
     display: block;
    
-    background: rgb(67, 220, 220);
+    background: rgb(85, 187, 187);
 padding: 15px 30px;
 }
 
