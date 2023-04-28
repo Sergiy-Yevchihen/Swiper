@@ -46,7 +46,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-color: #7cbbe8;
-    background-image: url(/imeg.img/1560664221_1.jpg);
+    background-image: url(./imeg.img/1560664221_1.jpg);
 }
 
 .sol {
@@ -206,7 +206,7 @@ body {
 
 .top:hover {
   background-color: #3f4347;
-  background-image: url('/imeg.img/search.png');
+  background-image: url('./imeg.img/search.png');
 }
 
 .bottom {
@@ -312,7 +312,7 @@ body {
 } */
 
 .front {
-  background-image: url('/imeg.img/2.jpg');
+  background-image: url('./imeg.img/2.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position:center ;
@@ -320,14 +320,14 @@ body {
 }
 
 .back {
-  background-image: url('/imeg.img/1.jpg');
+  background-image: url('./imeg.img/1.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position:center ;
 }
 
 .right {
-  background-image: url('/imeg.img/3.jpg');
+  background-image: url('./imeg.img/3.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position:center ;
